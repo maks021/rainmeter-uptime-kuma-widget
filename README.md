@@ -1,3 +1,4 @@
+![preview](screenshot.png)
 # Rainmeter Uptime Kuma Widget
 
 A clean and lightweight Rainmeter widget that displays the status of your self-hosted Uptime Kuma monitors directly on your desktop.
@@ -53,8 +54,6 @@ Documents\Rainmeter\Skins\illustro\Kuma\
 ### 3. Configure Uptime Kuma
 
 Edit `kuma.ps1` and update:
-
-```powershell
 $BaseUrl = "http://YOUR_KUMA_IP:3001"
 $Slug    = "YOUR_STATUS_PAGE"
 
