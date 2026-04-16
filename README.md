@@ -57,25 +57,23 @@ Edit `kuma.ps1` and update:
 $BaseUrl = "http://YOUR_KUMA_IP:3001"
 $Slug    = "YOUR_STATUS_PAGE"
 
-4. Setup Task Scheduler
+### 4. Setup Task Scheduler
 
 Create a new task:
-
 Trigger:
 At log on
 Repeat every 1 minute
-
 Action:
-
 powershell.exe
-
 Arguments:
-
 -WindowStyle Hidden -ExecutionPolicy Bypass -NoProfile -File "C:\Users\YOUR_USER\Documents\Rainmeter\Skins\illustro\Kuma\kuma.ps1"
 Enable:
 Run with highest privileges
 Hidden
-5. Load the Skin
+
+---
+
+### 5. Load the Skin
 Open Rainmeter
 
 Go to:
