@@ -1,0 +1,8 @@
+AdGuard Home DNS    OK
+HAOS ping           OK
+Internet Ping       OK
+ASUS ROUTER ping    OK
+Internet HTTP       OK
+One.One.One.One DNS OK
+SWITCH ping         OK
+XD4 Ping            OK
