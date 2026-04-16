@@ -100,11 +100,6 @@ Edit Task Scheduler interval (recommended: 30–60 seconds)
 This widget uses file-based communication for stability
 Avoids direct API calls from Rainmeter (which can be unreliable)
 Designed for minimal system impact
-📸 Preview
 
-Add your screenshot here:
-
-preview.png
 🤝 Contributing
-
 Feel free to fork, improve, or adapt this widget for your setup.
